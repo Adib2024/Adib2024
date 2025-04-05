@@ -1,9 +1,5 @@
 <h1 align="center">Hey Everyone 👋, I'm Muhammad Adib Ahnaf</h1>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Adib2024/Adib2024/main/assets/banner.png" alt="Banner" />
-</div>
-
 <h3 align="center">A DevOps & Cloud enthusiast with a Mechatronic Engineering background from Malaysia 🇲🇾</h3>
 
 <p align="center">
