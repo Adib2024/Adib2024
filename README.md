@@ -42,9 +42,9 @@
 
 ### 🚀 Featured Projects
 
-- 🔧 [**GitHub Action Project**](https://github.com/Adib2024/Github_Actions-Project): GitHub Actions-powered CI/CD with.
-- 🔁 [**Amazon S3 File Sharing with Event Notifications**](https://github.com/Adib2024/amazon-s3-event-notifications): GitHub Actions-powered CI/CD with Docker.
-- ⚙️ [**Simple Cloud DB Migration**](https://github.com/Adib2024/simple-cloud-db-migration-project): Bash scripts to automate and manage systems.
+- 🔧 [**GitHub Action Project**](https://github.com/Adib2024/Github_Actions-Project): Secure CI/CD Pipeline for Java Applications with GitHub Actions and AWS EKS.
+- 🔁 [**Amazon S3 File Sharing with Event Notifications**](https://github.com/Adib2024/amazon-s3-event-notifications): Event-driven file sharing system using Amazon S3, triggering automated workflows with SNS notifications.
+- ⚙️ [**Simple Cloud DB Migration**](https://github.com/Adib2024/simple-cloud-db-migration-project): Migrated a MySQL database from an EC2-hosted LAMP application to Amazon RDS.
 
 ---
 
