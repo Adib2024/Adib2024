@@ -42,9 +42,9 @@
 
 ### 🚀 Featured Projects
 
-- 🔧 [**Cloud Lab Configs**](https://github.com/Adib2024/cloud-lab): Modular Terraform scripts to provision cloud infra on GCP.
-- 🔁 [**CI/CD Pipeline Demo**](https://github.com/Adib2024/devops-pipeline-demo): GitHub Actions-powered CI/CD with Docker.
-- ⚙️ [**Linux Scripting**](https://github.com/Adib2024/linux-scripting): Bash scripts to automate and manage systems.
+- 🔧 [**GitHub Action Project**](https://github.com/Adib2024/Github_Actions-Project): GitHub Actions-powered CI/CD with.
+- 🔁 [**Amazon S3 File Sharing with Event Notifications**](https://github.com/Adib2024/amazon-s3-event-notifications): GitHub Actions-powered CI/CD with Docker.
+- ⚙️ [**Simple Cloud DB Migration**](https://github.com/Adib2024/simple-cloud-db-migration-project): Bash scripts to automate and manage systems.
 
 ---
 
