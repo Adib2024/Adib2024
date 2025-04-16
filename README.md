@@ -1,4 +1,4 @@
-<h1 align="center">Hey Everyone 👋, I'm Muhammad Adib Ahnaf</h1>
+<h1 align="center">Hey Everyone 👋, I'm Muhammad Adib</h1>
 
 <h3 align="center">A DevOps & Cloud enthusiast with a Mechatronic Engineering background from Malaysia 🇲🇾</h3>
 
