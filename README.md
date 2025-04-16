@@ -21,7 +21,7 @@
 ### 🧑‍💻 About Me
 
 - 🎓 **Mechatronic Engineering Graduate** passionate about all things automation, infrastructure, and scalable systems.
-- 💻 I specialize in **DevOps, Cloud Computing, and CI/CD pipelines**, aiming to simplify software delivery.
+- 💻 I'm inerested in **DevOps, Cloud Computing, and CI/CD pipelines**, aiming to simplify software delivery.
 - 🔄 Currently upskilling in **Kubernetes, Jenkins**, and **AWS**.
 - 🛠️ Love building my learning process.
 
